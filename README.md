@@ -1,4 +1,4 @@
-#Bootcamp Backend Developer por LuizaLabs 🚀
+Bootcamp Backend Developer por LuizaLabs 🚀
 
 🐍 Backend Python: APIs RESTful, SQLAlchemy & IA
 Este repositório contém o progresso e os projetos desenvolvidos durante o Bootcamp focado na linguagem Python para Backend. O objetivo principal é o domínio da construção de APIs de alta performance, seguras e escaláveis, integrando tecnologias modernas e inteligência artificial.
