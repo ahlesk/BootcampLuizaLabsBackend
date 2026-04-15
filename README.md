@@ -1,7 +1,9 @@
 Bootcamp Backend Developer por LuizaLabs 🚀
 
+
 🐍 Backend Python: APIs RESTful, SQLAlchemy & IA
 Este repositório contém o progresso e os projetos desenvolvidos durante o Bootcamp focado na linguagem Python para Backend. O objetivo principal é o domínio da construção de APIs de alta performance, seguras e escaláveis, integrando tecnologias modernas e inteligência artificial.
+
 
 🎯 Objetivos do Bootcamp
 Domínio de FastAPI: Construção de APIs assíncronas de alta performance.
@@ -13,6 +15,7 @@ Qualidade de Software: Aplicação de boas práticas (Clean Code, SOLID) e teste
 Segurança: Implementação de fluxos de autenticação, autorização e proteção de endpoints.
 
 Integração com IA: Implementação de funcionalidades inteligentes dentro do ecossistema backend.
+
 
 🛠️ Stack Tecnológico
 Linguagem: Python 3.12+
@@ -28,6 +31,7 @@ Segurança: JWT (JSON Web Tokens) & OAuth2
 Banco de Dados: PostgreSQL / SQLite
 
 IA: Integração com APIs de LLMs (OpenAI/Anthropic) ou bibliotecas locais.
+
 
 🚀 Diferenciais Técnicos
 O desenvolvimento neste repositório segue rigorosos padrões de mercado:
